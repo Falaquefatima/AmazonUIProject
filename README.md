@@ -1,1 +1,1 @@
-# AmazonUIProject
+# AmazonHomepageUI
