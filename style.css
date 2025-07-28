@@ -1,4 +1,4 @@
-/* Reset */
+
 * {
   margin: 0;
   padding: 0;
@@ -139,7 +139,8 @@ span {
 
 /* Hero */
 .hero-sec {
-  background-image: url("/images/amazon1st.jpg");
+  padding:10px ;
+  background-image: url("/images/amazon.jpg");
   height: 300px;
   background-size: cover;
   background-position: center;
